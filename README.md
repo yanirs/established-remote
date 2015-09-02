@@ -10,8 +10,10 @@ Pull requests are welcome. Please keep the list in alphbetical order.
 * [Bandcamp](https://bandcamp.com): [Jobs](https://bandcamp.com/jobs)
 * [Buffer](https://buffer.com): [Jobs](https://buffer.com/journey) | [Salary formula](https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/)
 * [DuckDuckGo](https://duckduckgo.com): [Hiring process](https://duck.co/help/company/hiring)
+* [Fire Engine Red)(http://fire-engine-red.com/): [Jobs](http://fire-engine-red.com/about/#careers)
 * [GitHub](https://github.com): [Jobs](https://github.com/about/jobs)
 * [Mozilla](https://mozilla.org): [Jobs](https://careers.mozilla.org/en-US/listings/?location=remote)
+* [Zapier](https://zapier.com/): [Jobs](https://zapier.com/jobs/)
 
 ## Other open lists
 

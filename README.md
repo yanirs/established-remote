@@ -12,7 +12,6 @@ Pull requests are welcome. Please keep the list in alphbetical order.
 * [DuckDuckGo](https://duckduckgo.com): [Hiring process](https://duck.co/help/company/hiring)
 * [GitHub](https://github.com): [Jobs](https://github.com/about/jobs)
 * [Mozilla](https://mozilla.org): [Jobs](https://careers.mozilla.org/en-US/listings/?location=remote)
-* 
 
 ## Other open lists
 

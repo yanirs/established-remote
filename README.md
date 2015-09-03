@@ -6,13 +6,16 @@ Pull requests are welcome. Please keep the list in alphbetical order.
 
 ## The list
 
+* [10up](http://10up.com): [Jobs](http://10up.com/careers/)
 * [Automattic](https://automattic.com): [Jobs](https://automattic.com/work-with-us/)
 * [Bandcamp](https://bandcamp.com): [Jobs](https://bandcamp.com/jobs)
 * [Buffer](https://buffer.com): [Jobs](https://buffer.com/journey) | [Salary formula](https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/)
 * [DuckDuckGo](https://duckduckgo.com): [Hiring process](https://duck.co/help/company/hiring)
-* [Fire Engine Red)(http://fire-engine-red.com/): [Jobs](http://fire-engine-red.com/about/#careers)
+* [Fire Engine Red](http://fire-engine-red.com/): [Jobs](http://fire-engine-red.com/about/#careers)
 * [GitHub](https://github.com): [Jobs](https://github.com/about/jobs)
+* [Help Scout](http://www.helpscout.net/): [Jobs](http://www.helpscout.net/careers/)
 * [Mozilla](https://mozilla.org): [Jobs](https://careers.mozilla.org/en-US/listings/?location=remote)
+* [Trello](https://trello.com): [Jobs](https://trello.com/jobs)
 * [Zapier](https://zapier.com/): [Jobs](https://zapier.com/jobs/)
 
 ## Other open lists

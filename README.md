@@ -1,6 +1,6 @@
 # Established remote companies
 
-A curated list of established remote tech companies. The criteria for inclusion are intentionally vague, but the general idea is to include only tech companies for which a significant portion of the workforce works remotely. "Established" means that each company is either well-funded or profitable.
+A curated list of established remote tech companies. The criteria for inclusion are intentionally vague, but the general idea is to include only tech companies for which a significant portion of the workforce works remotely. *Established* means that each company is either well-funded or profitable, and *tech* means that they have more than a handful of software development roles.
 
 Pull requests are welcome. Please keep the list in alphbetical order.
 
@@ -9,21 +9,33 @@ Pull requests are welcome. Please keep the list in alphbetical order.
 * [10up](http://10up.com): [Jobs](http://10up.com/careers/)
 * [Articulate](https://articulate.com): [Jobs](https://en-au.articulate.com/company/careers.php)
 * [Automattic](https://automattic.com): [Jobs](https://automattic.com/work-with-us/)
+* [Balsamiq](https://balsamiq.com/): [Jobs](https://balsamiq.com/company/jobs/)
 * [Bandcamp](https://bandcamp.com): [Jobs](https://bandcamp.com/jobs)
 * [Basecamp](https://basecamp.com): [Jobs get posted on WeWorkRemotely](https://weworkremotely.com/)
 * [Buffer](https://buffer.com): [Jobs](https://buffer.com/journey) | [Salary formula](https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/)
+* [Chef](https://www.chef.io/): [Jobs](https://www.chef.io/careers/)
 * [Clevertech](http://www.clevertech.biz/): [Jobs](http://hire.clevertech.biz/)
 * [DuckDuckGo](https://duckduckgo.com): [Hiring process](https://duck.co/help/company/hiring)
+* [Elastic](https://www.elastic.co/): [Jobs](https://www.elastic.co/about/careers)
 * [Fire Engine Red](http://fire-engine-red.com/): [Jobs](http://fire-engine-red.com/about/#careers)
+* [Four Kitchens](http://fourkitchens.com/): [Jobs](http://fourkitchens.com/careers/)
 * [Genuitec](http://www.genuitec.com): [Jobs](http://www.genuitec.com/company/careers/)
+* [Ghost](https://ghost.org/): [Jobs](https://ghost.org/careers/)
 * [GitHub](https://github.com): [Jobs](https://github.com/about/jobs)
 * [Help Scout](http://www.helpscout.net/): [Jobs](http://www.helpscout.net/careers/)
 * [inVision](http://www.invisionapp.com/): [Jobs](http://www.invisionapp.com/company#jobs)
 * [Jackson River](http://www.jacksonriver.com/): [Jobs](http://www.jacksonriver.com/about/jobs)
 * [Lullabot](https://www.lullabot.com/): [Jobs](https://www.lullabot.com/jobs)
 * [Mozilla](https://mozilla.org): [Jobs](https://careers.mozilla.org/en-US/listings/?location=remote)
+* [onTheGoSystems](https://www.onthegosystems.com): [Jobs](https://www.onthegosystems.com/jobs/)
+* [Original Eight](https://origineight.net/): [Jobs](https://origineight.recruiterbox.com/)
+* [Scrapinghub](http://scrapinghub.com): [Jobs](http://scrapinghub.com/jobs/)
+* [Simple A](http://www.simplea.com): [Jobs](http://www.simplea.com/About/Careers/)
 * [SitePen](https://www.sitepen.com/): [Jobs](https://www.sitepen.com/about/jobs.html)
+* [SoftwareMill](https://softwaremill.com/): [Jobs](https://softwaremill.com/join-us/)
+* [Toptal](http://www.toptal.com/): [Core team positions](http://www.toptal.com/careers) | [Apply as a developer](http://www.toptal.com/developers)
 * [Trello](https://trello.com): [Jobs](https://trello.com/jobs)
+* [Universal Mind](http://www.universalmind.com/): [Jobs](http://www.universalmind.com/careers/)
 * [World Wide Web Hosting](http://www.wwwh.com/): [Jobs](http://www.wwwh.com/careers/)
 * [Zapier](https://zapier.com/): [Jobs](https://zapier.com/jobs/)
 

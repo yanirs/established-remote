@@ -46,20 +46,19 @@ Pull requests are welcome. Please keep the list in alphbetical order.
  
 ## Static lists and articles
 
-* Flexjobs posts: [26 Virtual Companies That Thrive on Remote Work (2014)](https://www.flexjobs.com/blog/post/25-virtual-companies-that-thrive-on-remote-work/) | [76 Virtual Companies and Distributed Teams (2015)](https://www.flexjobs.com/blog/post/76-virtual-companies-and-distributed-teams/)
+* FlexJobs posts: [26 Virtual Companies That Thrive on Remote Work (2014)](https://www.flexjobs.com/blog/post/25-virtual-companies-that-thrive-on-remote-work/) | [76 Virtual Companies and Distributed Teams (2015)](https://www.flexjobs.com/blog/post/76-virtual-companies-and-distributed-teams/)
 * [5 Successful Examples of "Distributed Workforce" Companies (staff.com blog)](http://www.staff.com/blog/5-successful-examples-of-distributed-workforce-companies/)
 * [Virtual Companies: How and Why to Invest in Remote Teams (8 companies; Hubstaff blog)](http://blog.hubstaff.com/successful-virtual-companies-around-the-world/)
 
 ## Remote job search websites
 
-* https://dribbble.com/jobs
-* https://weworkremotely.com/
-* https://remoteok.io/
-* https://angel.co/job-collections/remote
-* http://workingnomads.co/
-* http://jobs.remotive.io/
-* http://nomadjobs.io/
-* http://careers.stackoverflow.com/jobs?allowsremote=true
-* http://nodesk.co/remote-work/
-* https://www.wfh.io/
-* https://www.flexjobs.com/
+* [AngelList remote job collection](https://angel.co/job-collections/remote)
+* [Authentic Jobs](https://authenticjobs.com/#onlyremote=1)
+* [FlexJobs](https://www.flexjobs.com/)
+* [Remote.co](https://remote.co/remote-jobs/)
+* [Remote | OK](https://remoteok.io/)
+* [Remotive](http://jobs.remotive.io/)
+* [Stack Overflow remote job listings](http://careers.stackoverflow.com/jobs?allowsremote=true)
+* [WeWorkRemotely](https://weworkremotely.com/)
+* [WFH.io](https://www.wfh.io/)
+* [Working Nomads](http://www.workingnomads.co/jobs)

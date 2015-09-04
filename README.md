@@ -18,10 +18,13 @@ Pull requests are welcome. Please keep the list in alphbetical order.
 * [Genuitec](http://www.genuitec.com): [Jobs](http://www.genuitec.com/company/careers/)
 * [GitHub](https://github.com): [Jobs](https://github.com/about/jobs)
 * [Help Scout](http://www.helpscout.net/): [Jobs](http://www.helpscout.net/careers/)
-* [invision](http://www.invisionapp.com/): [Jobs](http://www.invisionapp.com/company#jobs)
+* [inVision](http://www.invisionapp.com/): [Jobs](http://www.invisionapp.com/company#jobs)
 * [Jackson River](http://www.jacksonriver.com/): [Jobs](http://www.jacksonriver.com/about/jobs)
+* [Lullabot](https://www.lullabot.com/): [Jobs](https://www.lullabot.com/jobs)
 * [Mozilla](https://mozilla.org): [Jobs](https://careers.mozilla.org/en-US/listings/?location=remote)
+* [SitePen](https://www.sitepen.com/): [Jobs](https://www.sitepen.com/about/jobs.html)
 * [Trello](https://trello.com): [Jobs](https://trello.com/jobs)
+* [World Wide Web Hosting](http://www.wwwh.com/): [Jobs](http://www.wwwh.com/careers/)
 * [Zapier](https://zapier.com/): [Jobs](https://zapier.com/jobs/)
 
 ## Other dynamic lists
@@ -31,7 +34,7 @@ Pull requests are welcome. Please keep the list in alphbetical order.
  
 ## Static lists and articles
 
-* [26 Virtual Companies That Thrive on Remote Work (flexjobs blog)](https://www.flexjobs.com/blog/post/25-virtual-companies-that-thrive-on-remote-work/)
+* Flexjobs posts: [26 Virtual Companies That Thrive on Remote Work (2014)](https://www.flexjobs.com/blog/post/25-virtual-companies-that-thrive-on-remote-work/) | [76 Virtual Companies and Distributed Teams (2015)](https://www.flexjobs.com/blog/post/76-virtual-companies-and-distributed-teams/)
 * [5 Successful Examples of "Distributed Workforce" Companies (staff.com blog)](http://www.staff.com/blog/5-successful-examples-of-distributed-workforce-companies/)
 * [Virtual Companies: How and Why to Invest in Remote Teams (8 companies; Hubstaff blog)](http://blog.hubstaff.com/successful-virtual-companies-around-the-world/)
 

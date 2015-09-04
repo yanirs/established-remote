@@ -1,6 +1,6 @@
 # Established remote companies
 
-A curated list of established remote tech companies. The criteria for inclusion are intentionally vague, but the general idea is to include only tech companies for which a significant portion of the workforce works remotely. *Established* means that each company is either well-funded or profitable, and *tech* means that they have more than a handful of software development roles.
+A curated list of established remote/distributed/virtual tech companies. The criteria for inclusion are intentionally vague, but the general idea is to include only established tech companies for which a significant portion of the workforce works remotely. *Established* means that each company is either well-funded or profitable, and *tech* means that they have more than a handful of software development roles.
 
 Pull requests are welcome. Please keep the list in alphbetical order.
 

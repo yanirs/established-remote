@@ -20,6 +20,7 @@ Company                                          | Business/products           |
 [Chef](https://www.chef.io/)                     | IT automation               | Ruby, DevOps               | [Jobs](https://www.chef.io/careers/)
 [Clevertech](http://www.clevertech.biz/)         | Dev consulting              | Many (see job page)        | [Jobs](http://hire.clevertech.biz/)
 [DataRobot](http://www.datarobot.com)            | Data science as a service   | Python, R, Web, data stuff | [Jobs](http://www.datarobot.com/careers/)
+[DataStax](http://www.datastax.com/)             | Enterprise Cassandra        | Cassandra, Java, DevOps    | [Jobs](http://www.datastax.com/company/careers/search)
 [DigitalOcean](https://www.digitalocean.com/)    | Infrastracture as a service | C++, Go, Ruby, Perl, Web   | [Jobs](https://www.digitalocean.com/company/careers/)
 [DuckDuckGo](https://duckduckgo.com)             | Web search engine           | Perl, Web, Mobile          | [Hiring process](https://duck.co/help/company/hiring)
 [Elastic](https://www.elastic.co/)               | Elasticsearch as a service  | Java, DevOps, Web          | [Jobs](https://www.elastic.co/about/careers)

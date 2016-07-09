@@ -24,7 +24,7 @@ Company                                          | Business/products           |
 [DigitalOcean](https://www.digitalocean.com/)    | Infrastracture as a service | C++, Go, Ruby, Perl, Web   | [Jobs](https://www.digitalocean.com/company/careers/)
 [DuckDuckGo](https://duckduckgo.com)             | Web search engine           | Perl, Web, Mobile          | [Hiring process](https://duck.co/help/company/hiring)
 [Elastic](https://www.elastic.co/)               | Elasticsearch as a service  | Java, DevOps, Web          | [Jobs](https://www.elastic.co/about/careers)
-[Envanto](http://www.envato.com/)                | Sites for creatives         | Ruby, Web                  | [Jobs](http://www.envato.com/careers/open-jobs/remote)
+[Envato](http://www.envato.com/)                | Sites for creatives         | Ruby, Web                  | [Jobs](http://www.envato.com/careers/open-jobs/remote)
 [Fire Engine Red](http://fire-engine-red.com/)   | Education market solutions  | ?                          | [Jobs](http://fire-engine-red.com/about/#careers)
 [Four Kitchens](http://fourkitchens.com/)        | Web consulting              | Drupal, Node, PHP, Web     | [Jobs](http://fourkitchens.com/careers/)
 [Genuitec](http://www.genuitec.com)              | Eclipse-based tools         | Java, Eclipse, Web, Mobile | [Jobs](http://www.genuitec.com/company/careers/)

@@ -72,6 +72,7 @@ companies where this is one of the main focus areas.
 * [AngelList remote job collection](https://angel.co/job-collections/remote)
 * [Authentic Jobs](https://authenticjobs.com/#onlyremote=1)
 * [FlexJobs](https://www.flexjobs.com/)
+* [RemoteBase](https://remotebase.io/)
 * [Remote.co](https://remote.co/remote-jobs/)
 * [Remote | OK](https://remoteok.io/)
 * [Remotive](http://jobs.remotive.io/)

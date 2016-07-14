@@ -45,6 +45,7 @@ Company                                          | Business/products           |
 [Simple A](http://www.simplea.com)               | .NET consulting             | .NET, Web                  | [Jobs](http://www.simplea.com/About/Careers/)
 [SitePen](https://www.sitepen.com/)              | Web consulting              | Dojo, Web                  | [Jobs](https://www.sitepen.com/about/jobs.html)
 [SoftwareMill](https://softwaremill.com/)        | Software consulting         | Java, Scala, Web, Mobile   | [Jobs](https://softwaremill.com/join-us/)
+[Sonatype](http://www.sonatype.com/)             | Software chain automation   | Java, Groovy, DevOps       | [Jobs](http://www.sonatype.com/careers-sonatype)
 [Stack Exchange](http://stackexchange.com/)      | Stack Overflow & more       | .NET, Web                  | [Jobs](http://stackexchange.com/work-here)<br>[Philosophy](http://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/)
 [Toggl](https://www.toggl.com/)                  | Time Tracking Tool          | Ruby, C#, Go, Mobile, Web  | [Jobs](https://jobs.toggl.com/)
 [Toptal](http://www.toptal.com/)                 | Tech freelancer makertplace | Ruby, Web                  | [Core team positions](http://www.toptal.com/careers)<br>[Apply as a developer](http://www.toptal.com/developers)

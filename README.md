@@ -15,7 +15,7 @@ Company                                          | Business/products           |
 [Balsamiq](https://balsamiq.com/)                | Wireframing                 | ?                          | [Jobs](https://balsamiq.com/company/jobs/)
 [Bandcamp](https://bandcamp.com)                 | Music publishing platform   | Ruby, Web                  | [Jobs](https://bandcamp.com/jobs)
 [Basecamp](https://basecamp.com)                 | Collaboration tools         | Ruby, Web                  | [Jobs get posted on WeWorkRemotely](https://weworkremotely.com/)
-[Buffer](https://buffer.com)                     | Social media tools          | PHP, Python, Web, Mobile   | [Jobs](https://buffer.com/journey)<br>[Salary formula](https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/)
+[Buffer](https://buffer.com)                     | Social media tools          | PHP, Node, Web, Mobile     | [Jobs](https://buffer.com/journey)<br>[Salary formula](https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/)
 [Canonical](http://www.canonical.com/)           | Ubuntu dev & support        | C, C++, Python, DevOps     | [Jobs](http://www.canonical.com/careers/all-vacancies)
 [Chef](https://www.chef.io/)                     | IT automation               | Ruby, DevOps               | [Jobs](https://www.chef.io/careers/)
 [Clevertech](http://www.clevertech.biz/)         | Dev consulting              | Many (see job page)        | [Jobs](http://hire.clevertech.biz/)

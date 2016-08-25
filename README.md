@@ -11,6 +11,7 @@ Company                                          | Business/products           |
 [10up](http://10up.com)                          | Web consulting              | PHP, Web                   | [Jobs](http://10up.com/careers/)
 [Aha!](https://aha.io)                           | Product roadmapping software| Ruby, Rails, React, Web    | [Jobs](http://www.aha.io/company/careers/current-openings)
 [Articulate](https://articulate.com)             | E-learning                  | PHP, .NET                  | [Jobs](https://en-au.articulate.com/company/careers.php)
+[Auth0](https://auth0.com)                       | Identity Management         | Node, Web                  | [Jobs](https://auth0.com/jobs)
 [Automattic](https://automattic.com)             | WordPress & more            | PHP, Java, Web, Mobile     | [Jobs](https://automattic.com/work-with-us/)
 [Axelerant](https://axelerant.com/)              | Web consulting              | Drupal, Web                | [Jobs](https://axelerant.com/careers/)
 [Balsamiq](https://balsamiq.com/)                | Wireframing                 | ?                          | [Jobs](https://balsamiq.com/company/jobs/)

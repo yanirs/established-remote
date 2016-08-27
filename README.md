@@ -53,6 +53,7 @@ Company                                          | Business/products           |
 [Toptal](https://www.toptal.com/)                | Tech freelancer makertplace | Ruby, Web                  | [Core team positions](https://www.toptal.com/careers)<br>[Apply as a developer](https://www.toptal.com/developers)
 [Trello](https://trello.com)                     | Trello                      | Node, Mobile, Web          | [Jobs](https://trello.com/jobs)
 [Universal Mind](http://www.universalmind.com/)  | Digital agency              | Mobile, Web                | [Jobs](http://www.universalmind.com/careers/)
+[Webikon](http://webikon.eu/)   				 | WordPress agency            | PHP, JavaScript, Docker    | [Jobs](https://webikon.eu/who-we-are/)
 [World Wide Web Hosting](http://www.wwwh.com/)   | Web hosting                 | cPanel                     | [Jobs](http://www.wwwh.com/careers/)
 [Zapier](https://zapier.com/)                    | App connectors              | Python, Node, Web          | [Jobs](https://zapier.com/about/)
 

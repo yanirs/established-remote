@@ -10,7 +10,7 @@ Company                                          | Business/products           |
 -------------------------------------------------|-----------------------------|----------------------------|-----------------------
 [10up](https://10up.com/)                        | Web consulting              | PHP, Web                   | [Jobs](https://10up.com/careers/)
 [Aha!](https://www.aha.io/)                      | Product roadmapping software| Ruby, Rails, React, Web    | [Jobs](http://www.aha.io/company/careers/current-openings)
-[Articulate](http://www.articulate.com/)         | E-learning                  | PHP, .NET                  | [Jobs](https://life.articulate.com/careers/)
+[Articulate](http://www.articulate.com/)         | E-learning                  | Ruby, C#/.NET, Javascript    | [Jobs](https://life.articulate.com/careers/)
 [Auth0](https://auth0.com)                       | Identity Management         | Node, Web                  | [Jobs](https://auth0.com/jobs)
 [Automattic](https://automattic.com)             | WordPress & more            | PHP, Java, Web, Mobile     | [Jobs](https://automattic.com/work-with-us/)
 [Axelerant](https://axelerant.com/)              | Web consulting              | Drupal, Web                | [Jobs](https://axelerant.com/careers/)

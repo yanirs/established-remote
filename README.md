@@ -48,6 +48,7 @@ Company                                          | Business/products           |
 [SitePen](https://www.sitepen.com/)              | Web consulting              | Dojo, Web                  | [Jobs](https://www.sitepen.com/about/jobs.html)
 [SoftwareMill](https://softwaremill.com/)        | Software consulting         | Java, Scala, Web, Mobile   | [Jobs](https://softwaremill.com/join-us/)
 [Sonatype](https://www.sonatype.com/)            | Software chain automation   | Java, Groovy, DevOps       | [Jobs](https://www.sonatype.com/careers-sonatype)
+[Spreaker](https://www.spreaker.com)             | Podcasting Platform         | PHP, Node, Web, Mobile     | [Jobs](https://www.spreaker.com/jobs)
 [Stack Exchange](http://stackexchange.com/)      | Stack Overflow & more       | .NET, Web                  | [Jobs](http://stackoverflow.com/company/work-here)<br>[Philosophy](http://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/)<br>[Salary calculator](https://stackoverflow.com/company/salary/calculator)
 [Toggl](https://www.toggl.com/)                  | Time Tracking Tool          | Ruby, C#, Go, Mobile, Web  | [Jobs](https://jobs.toggl.com/)
 [Toptal](https://www.toptal.com/)                | Tech freelancer makertplace | Ruby, Web                  | [Core team positions](https://www.toptal.com/careers)<br>[Apply as a developer](https://www.toptal.com/developers)
@@ -70,6 +71,7 @@ companies where this is one of the main focus areas.
 * FlexJobs posts: [26 Virtual Companies That Thrive on Remote Work (2014)](https://www.flexjobs.com/blog/post/25-virtual-companies-that-thrive-on-remote-work/) | [76 Virtual Companies and Distributed Teams (2015)](https://www.flexjobs.com/blog/post/76-virtual-companies-and-distributed-teams/) | [125 Virtual Companies That Embrace Remote Working (2016)](https://www.flexjobs.com/blog/post/virtual-companies-that-embrace-remote-working/)
 * [5 Successful Examples of "Distributed Workforce" Companies (staff.com blog)](https://staff.com/blog/5-successful-examples-of-distributed-workforce-companies/)
 * [Virtual Companies: How and Why to Invest in Remote Teams (8 companies; Hubstaff blog)](http://blog.hubstaff.com/successful-virtual-companies-around-the-world/)
+* [The Pros and Cons of Working Remotely by @spreaker](http://blog.spreaker.com/2016/03/14/the-pros-and-cons-of-working-remotely/)
 
 ## Remote job search websites
 

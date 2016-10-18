@@ -42,6 +42,7 @@ Company                                          | Business/products           |
 [onTheGoSystems](https://www.onthegosystems.com) | WordPress plugins           | WordPress, PHP, Web        | [Jobs](https://www.onthegosystems.com/jobs/)
 [Original Eight](https://www.origineight.net/)   | Web consulting              | PHP, Drupal, Web           | [Jobs](https://origineight.recruiterbox.com/)
 [Parse.ly](http://www.parsely.com/)              | Analytics for publishers    | Python, Web                | [Jobs](http://www.parsely.com/jobs/)
+[Particular Software](http://particular.net/)    | Makers of NServiceBus       | .NET, C#                   | [Jobs](http://particular.net/careers)
 [Pythian](https://www.pythian.com/)              | Data & IT consulting        | DBA, DevOps                | [Jobs](https://www.pythian.com/careers/)
 [Scrapinghub](https://scrapinghub.com/)          | Scraping as a service       | Python, Web                | [Jobs](https://scrapinghub.com/jobs/)
 [Simple A](http://www.simplea.com)               | .NET consulting             | .NET, Web                  | [Jobs](http://www.simplea.com/About/Careers/)

@@ -32,6 +32,7 @@ Company                                          | Business/products           |
 [Genuitec](http://www.genuitec.com)              | Eclipse-based tools         | Java, Eclipse, Web, Mobile | [Jobs](http://www.genuitec.com/company/careers/)
 [Ghost](https://ghost.org/)                      | Publishing platform         | Node, Web                  | [Jobs](https://ghost.org/careers/)
 [GitHub](https://github.com)                     | GitHub                      | Git, Ruby, Web             | [Jobs](https://github.com/about/jobs)
+[Heap](https://heapanalytics.com/)               | Heap                        | Node (CoffeeScript, TypeScript), Scala, Web | [Jobs](https://heapanalytics.com/jobs)
 [Help Scout](https://www.helpscout.net/)         | Help desk software          | Java, Web                  | [Jobs](https://www.helpscout.net/careers/)
 [Heroku](https://www.heroku.com/)                | Backend hosting             | Ruby, Go, Web, DevOps      | [Jobs](https://www.heroku.com/careers)
 [inVision](http://www.invisionapp.com/)          | Design prototyping platform | Node, Web, Mobile          | [Jobs](http://www.invisionapp.com/company#jobs)

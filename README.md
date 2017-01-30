@@ -37,6 +37,7 @@ Company                                          | Business/products           |
 [Heroku](https://www.heroku.com/)                | Backend hosting             | Ruby, Go, Web, DevOps      | [Jobs](https://www.heroku.com/careers)
 [inVision](http://www.invisionapp.com/)          | Design prototyping platform | Node, Web, Mobile          | [Jobs](http://www.invisionapp.com/company#jobs)
 [Jackson River](https://www.jacksonriver.com/)   | Nonprofit IT consulting     | PHP, Drupal, Web           | [Jobs](https://www.jacksonriver.com/about/jobs)
+[Logz.io](http://logz.io)                        | Logging as a Service        | ELK Stack                  | [Jobs](http://logz.io/careers/)
 [Lullabot](https://www.lullabot.com/)            | Design & dev consulting     | PHP, Drupal, Web           | [Jobs](https://www.lullabot.com/jobs)
 [Mozilla](https://www.mozilla.org/)              | Firefox & more              | C++, Web, Mobile           | [Jobs](https://careers.mozilla.org/listings/?location=remote)
 [Olark](https://www.olark.com)                   | Live chat widgets           | Ruby, Web                  | [Jobs](https://www.olark.com/jobs/)

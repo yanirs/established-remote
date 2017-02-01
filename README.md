@@ -39,6 +39,7 @@ Company                                          | Business/products           |
 [Jackson River](https://www.jacksonriver.com/)   | Nonprofit IT consulting     | PHP, Drupal, Web           | [Jobs](https://www.jacksonriver.com/about/jobs)
 [Lullabot](https://www.lullabot.com/)            | Design & dev consulting     | PHP, Drupal, Web           | [Jobs](https://www.lullabot.com/jobs)
 [Mozilla](https://www.mozilla.org/)              | Firefox & more              | C++, Web, Mobile           | [Jobs](https://careers.mozilla.org/listings/?location=remote)
+[MySociety](https://www.mysociety.org/)          | Civic technology            | Java, Ruby, Python, C++, Web | [Jobs](https://www.mysociety.org/about/careers/)<br>[Recruitment policy](https://medium.com/from-mysociety/recruiting-for-diversity-this-much-we-know-91296a3ce6d#.m3i72o60d)
 [Olark](https://www.olark.com)                   | Live chat widgets           | Ruby, Web                  | [Jobs](https://www.olark.com/jobs/)
 [onTheGoSystems](https://www.onthegosystems.com) | WordPress plugins           | WordPress, PHP, Web        | [Jobs](https://www.onthegosystems.com/jobs/)
 [Original Eight](https://www.origineight.net/)   | Web consulting              | PHP, Drupal, Web           | [Jobs](https://origineight.recruiterbox.com/)

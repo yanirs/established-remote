@@ -21,7 +21,7 @@ Company                                          | Business/products           |
 [Canonical](http://www.canonical.com/)           | Ubuntu dev & support        | C, C++, Python, DevOps     | [Jobs](http://www.canonical.com/careers/all-vacancies)
 [Chef](https://www.chef.io/)                     | IT automation               | Ruby, DevOps               | [Jobs](https://www.chef.io/careers/)
 [Clevertech](https://clevertech.biz/)            | Dev consulting              | Many (see job page)        | [Jobs](https://hire.clevertech.biz/)
-[DataRobot](http://www.datarobot.com)            | Data science as a service   | Python, R, Web, data stuff | [Jobs](http://www.datarobot.com/careers/)
+[DataRobot](http://www.datarobot.com)            | Data science Automation & Democratization | Python, R, C, Spark, Javascript, Data tools | [Jobs](http://www.datarobot.com/careers/)
 [DataStax](http://www.datastax.com/)             | Enterprise Cassandra        | Cassandra, Java, DevOps    | [Jobs](http://www.datastax.com/company/careers/search)
 [DigitalOcean](https://www.digitalocean.com/)    | Infrastracture as a service | C++, Go, Ruby, Perl, Web   | [Jobs](https://www.digitalocean.com/company/careers/)
 [DuckDuckGo](https://duckduckgo.com)             | Web search engine           | Perl, Web, Mobile          | [Hiring process](https://duck.co/help/company/hiring)

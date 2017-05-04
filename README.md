@@ -89,3 +89,4 @@ Notes:
 * [WeWorkRemotely](https://weworkremotely.com/)
 * [WFH.io](https://www.wfh.io/)
 * [Working Nomads](http://www.workingnomads.co/jobs)
+* [whoishiring.io](https://whoishiring.io/)

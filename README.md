@@ -6,7 +6,7 @@ Pull requests are welcome. Please keep the list in alphabetical order.
 
 ## The list
 
-Company                                          | Business/products           | Tech stack/skills          | Globally-competitive compensation? | Job page & other links 
+Company                                          | Business/products           | Tech stack/skills          | Globally-competitive compensation? | Job page & other links
 -------------------------------------------------|-----------------------------|----------------------------|------------------------------------|-----------------------
 [10up](https://10up.com/)                        | Web consulting              | PHP, Web                   | ✗                                  | [Jobs](https://10up.com/careers/)<br>[Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-10Up-EI_IE775906.11,15.htm)
 [Aha!](https://www.aha.io/)                      | Product roadmapping software| Ruby, Rails, React, Web    | ✓                                  | [Jobs](http://www.aha.io/company/careers/current-openings)<br>[Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-Aha-EI_IE1102346.11,14.htm)
@@ -21,6 +21,7 @@ Company                                          | Business/products           |
 [Canonical](http://www.canonical.com/)           | Ubuntu dev & support        | C, C++, Python, DevOps     | ✓                                  | [Jobs](http://www.canonical.com/careers/all-vacancies)<br>[Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-Canonical-EI_IE230560.11,20.htm)
 [Chef](https://www.chef.io/)                     | IT automation               | Ruby, DevOps               | ✓                                  | [Jobs](https://www.chef.io/careers/)<br>[Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-Chef-Software-EI_IE444809.11,24.htm)
 [Clevertech](https://clevertech.biz/)            | Dev consulting              | Many (see job page)        | ✗                                  | [Jobs](https://hire.clevertech.biz/)<br>[Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-Clevertech-EI_IE781853.11,21.htm)
+[Crossover](https://www.crossover.com/)          | Full-time long-term projects | Many (see job page)        | ✗                                  | [Jobs](https://app.crossover.com/x/marketplace/available-jobs)<br>[Glassdoor](https://www.glassdoor.com/Overview/Working-at-Crossover-for-Work-EI_IE1041838.11,29.htm)
 [DataRobot](http://www.datarobot.com)            | Data science as a service   | Python, R, Web, data stuff | ?                                  | [Jobs](http://www.datarobot.com/careers/)<br>[Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-DataRobot-EI_IE911432.11,20.htm)
 [DataStax](http://www.datastax.com/)             | Enterprise Cassandra        | Cassandra, Java, DevOps    | ✓                                  | [Jobs](http://www.datastax.com/company/careers/search)<br>[Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-DataRobot-EI_IE911432.11,20.htm)
 [DigitalOcean](https://www.digitalocean.com/)    | Infrastracture as a service | C++, Go, Ruby, Perl, Web   | ✓                                  | [Jobs](https://www.digitalocean.com/company/careers/)<br>[Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-DigitalOcean-EI_IE823482.11,23.htm)
@@ -62,7 +63,7 @@ Company                                          | Business/products           |
 [Zapier](https://zapier.com/)                    | App connectors              | Python, Node, Web          | ?                                  | [Jobs](https://zapier.com/about/)<br>[Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-Zapier-EI_IE1196705.11,17.htm)
 
 Notes:
-* *Web* covers the usual front-end skills, *Mobile* usually means iOS and Android, and *DevOps* is listed for companies where this is one of the main focus areas. 
+* *Web* covers the usual front-end skills, *Mobile* usually means iOS and Android, and *DevOps* is listed for companies where this is one of the main focus areas.
 * Globally-competitive compensation means that the company doesn't use remote workers as a source of cheap labour. For compensation to be globally competitive, the company should offer packages that are comparable to market rates in major tech hubs.
 
 ## Other dynamic lists
@@ -70,7 +71,7 @@ Notes:
 * [Awesome Remote Job (markdown file of remote working resources)](https://github.com/lukasz-madon/awesome-remote-job)
 * [List of Startups with distributed teams, remote staff & multiple offices (Google Sheet)](https://docs.google.com/spreadsheets/d/1uDdDyheNY_-Z3MtuNoFdBYBooBnUTmlYCOZ3VhcN9Sw/edit)
 * [Work Remote Company List (less detailed Google Sheet)](https://docs.google.com/spreadsheets/d/1tETz3dWHkbzbXAMZ9XXdR0VKhhite-i_ON_Ei3TjFSc/edit)
- 
+
 ## Static lists and articles
 
 * FlexJobs posts: [26 Virtual Companies That Thrive on Remote Work (2014)](https://www.flexjobs.com/blog/post/25-virtual-companies-that-thrive-on-remote-work/) | [76 Virtual Companies and Distributed Teams (2015)](https://www.flexjobs.com/blog/post/76-virtual-companies-and-distributed-teams/) | [125 Virtual Companies That Embrace Remote Working (2016)](https://www.flexjobs.com/blog/post/virtual-companies-that-embrace-remote-working/)

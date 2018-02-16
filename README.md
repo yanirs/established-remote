@@ -61,6 +61,7 @@ Company                                          | Business/products           |
 [Trello](https://trello.com)                     | Trello                      | Node, Mobile, Web          | ✓                                  | [Jobs](https://trello.com/jobs)<br>[Glassdoor (acquired by Atlassian)](https://www.glassdoor.com.au/Overview/Working-at-Atlassian-EI_IE115699.11,20.htm)
 [Universal Mind](http://www.universalmind.com/)  | Digital agency              | Mobile, Web                | ✓                                  | [Jobs](http://www.universalmind.com/careers/)<br>[Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-Universal-Mind-EI_IE648227.11,25.htm)
 [Zapier](https://zapier.com/)                    | App connectors              | Python, Node, Web          | ?                                  | [Jobs](https://zapier.com/about/)<br>[Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-Zapier-EI_IE1196705.11,17.htm)
+[X-team](https://x-team.com/)                    | Remote full-time projects   | JavaScript, PHP, Laravel, Symfony | ✓                                  | [Jobs](https://x-team.com/remote-programming-jobs/)<br>[Glassdoor](https://www.glassdoor.com/Overview/Working-at-X-Team-International-EI_IE1274500.11,31.htm)
 
 Notes:
 * *Web* covers the usual front-end skills, *Mobile* usually means iOS and Android, and *DevOps* is listed for companies where this is one of the main focus areas.

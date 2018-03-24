@@ -97,3 +97,4 @@ Notes:
 * [WeWorkRemotely](https://weworkremotely.com/)
 * [WFH.io](https://www.wfh.io/)
 * [Working Nomads](http://www.workingnomads.co/jobs)
+* [Remotelist.ru](https://remotelist.ru/)

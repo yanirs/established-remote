@@ -4,7 +4,7 @@ A curated list of established remote/distributed/virtual tech companies. The cri
 
 Pull requests are welcome. Please keep the list in alphabetical order.
 
-**Note:** I started this list as a way of finding companies I may want to work with. These days, I work as a remote data scientist with Automattic. You can [visit my website](https://yanirseroussi.com/) to read about [my application path](https://yanirseroussi.com/2017/07/29/my-10-step-path-to-becoming-a-remote-data-scientist-with-automattic/) and [my thoughts on the experience so far](https://yanirseroussi.com/2018/11/03/reflections-on-remote-data-science-work/). TL; DR: Remote work is awesome! :)
+**Note:** I started this list as a way of finding companies I may want to work with. These days, I work as a remote data scientist with Automattic. You can [visit my website](https://yanirseroussi.com/) to read about [my application path](https://yanirseroussi.com/2017/07/29/my-10-step-path-to-becoming-a-remote-data-scientist-with-automattic/) and [my thoughts on the experience so far](https://yanirseroussi.com/2018/11/03/reflections-on-remote-data-science-work/). TL;DR: Remote work is awesome! :)
 
 ## The list
 

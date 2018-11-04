@@ -96,6 +96,7 @@ Notes:
 * [5 Successful Examples of "Distributed Workforce" Companies (staff.com blog)](https://staff.com/blog/5-successful-examples-of-distributed-workforce-companies/)
 * [Virtual Companies: How and Why to Invest in Remote Teams (8 companies; Hubstaff blog)](http://blog.hubstaff.com/successful-virtual-companies-around-the-world/)
 * [The Pros and Cons of Working Remotely by @spreaker](http://blog.spreaker.com/2016/03/14/the-pros-and-cons-of-working-remotely/)
+* [Remote Only](https://www.remoteonly.org/): Manifesto, tips, company list, and more
 
 ## Remote job search websites
 

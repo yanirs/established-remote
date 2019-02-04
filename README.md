@@ -117,5 +117,4 @@ Notes:
 * [Remote Friendly](https://remotefriendly.work)
 * [Stack Overflow remote job listings](https://stackoverflow.com/jobs?allowsremote=true)
 * [WeWorkRemotely](https://weworkremotely.com/)
-* [WFH.io](https://www.wfh.io/)
 * [Working Nomads](http://www.workingnomads.co/jobs)

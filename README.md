@@ -2,6 +2,8 @@
 
 A curated list of established remote/distributed/virtual tech companies. The criteria for inclusion are intentionally vague, but the general idea is to include only established tech companies for which a significant portion of the workforce works remotely. *Established* means that each company is either well-funded or profitable, and *tech* means that they have more than a handful of software development roles.
 
+*Update (February 2019):* To make things a bit less vague and avoid ending up with a huge list, I stopped adding companies that have fewer than 50 employees. I will also remove small companies from the list at some stage.
+
 Pull requests are welcome. Please keep the list in alphabetical order.
 
 **Note:** I started this list as a way of finding companies I may want to work with. These days, I work as a remote data scientist with Automattic. You can [visit my website](https://yanirseroussi.com/) to read about [my application path](https://yanirseroussi.com/2017/07/29/my-10-step-path-to-becoming-a-remote-data-scientist-with-automattic/) and [my thoughts on the experience so far](https://yanirseroussi.com/2018/11/03/reflections-on-remote-data-science-work/). TL;DR: Remote work is awesome! :)
@@ -118,3 +120,5 @@ Notes:
 * [Stack Overflow remote job listings](https://stackoverflow.com/jobs?allowsremote=true)
 * [WeWorkRemotely](https://weworkremotely.com/)
 * [Working Nomads](http://www.workingnomads.co/jobs)
+
+*Note:* There seem to be hundreds of remote job aggregators, and new ones keep emerging. This is just a sample. If you want to add an aggregator, it should have more traffic than most of the above sites.

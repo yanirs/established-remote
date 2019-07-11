@@ -120,7 +120,6 @@ Notes:
 * [Remote.co](https://remote.co/remote-jobs/)
 * [Remote | OK](https://remoteok.io/)
 * [Remotive](http://jobs.remotive.io/)
-* [Remote Friendly](https://remotefriendly.work)
 * [Stack Overflow remote job listings](https://stackoverflow.com/jobs?allowsremote=true)
 * [WeWorkRemotely](https://weworkremotely.com/)
 * [Working Nomads](http://www.workingnomads.co/jobs)

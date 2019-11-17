@@ -97,7 +97,7 @@ Company                                          | Business/products           |
 [Wikimedia](https://wikimediafoundation.org/)    | Wikipedia                   | Web, PHP                   | ✗                                 | [Jobs](https://wikimediafoundation.org/wiki/Work_with_us)<br>[Glassdoor](https://www.glassdoor.com/Overview/Working-at-Wikimedia-Foundation-EI_IE38331.11,31.htm)
 [Xapo](https://xapo.com/)                    | Financial Technology   | Mobile, Web, Python                | ✓                                  | [Jobs](https://xapo.com/careers/)<br>[Glassdoor](https://www.glassdoor.com/Overview/Working-at-Xapo-EI_IE1843514.11,15.htm)
 [X-team](https://x-team.com/)                    | Remote full-time projects   | Mobile, Web                | ✓                                  | [Jobs](https://x-team.com/remote-programming-jobs/)<br>[Glassdoor](https://www.glassdoor.com/Overview/Working-at-X-Team-International-EI_IE1274500.11,31.htm)
-[Zapier](https://zapier.com/)                    | App connectors              | Python, Node, Web          | ?                                  | [Jobs](https://zapier.com/jobs/)<br>[Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-Zapier-EI_IE1196705.11,17.htm)
+[Zapier](https://zapier.com/)                    | App connectors              | Python, Node, Web          | ✓                                  | [Jobs](https://zapier.com/jobs/)<br>[Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-Zapier-EI_IE1196705.11,17.htm)
 
 Notes:
 * *Web* covers the usual front-end skills, *Mobile* usually means iOS and Android, and *DevOps* is listed for companies where this is one of the main focus areas.

@@ -135,5 +135,7 @@ Notes:
 * [Stack Overflow remote job listings](https://stackoverflow.com/jobs?allowsremote=true)
 * [WeWorkRemotely](https://weworkremotely.com/)
 * [Working Nomads](http://www.workingnomads.co/jobs)
+* [Daily Remote](https://dailyremote.com/remote-jobs)
+* [Pro Remote Jobs](https://proremotejobs.com)
 
 *Note:* There seem to be hundreds of remote job aggregators, and new ones keep emerging. This is just a sample. If you want to add an aggregator, it should have more traffic than most of the above sites.

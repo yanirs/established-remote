@@ -111,6 +111,7 @@ Notes:
 * [AngelList remote job collection](https://angel.co/job-collections/remote)
 * [Authentic Jobs](https://authenticjobs.com/#onlyremote=1)
 * [FlexJobs](https://www.flexjobs.com/)
+* [Freelancer](http://freelancer.com) - The world's largest freelancing and crowdsourcing marketplace by number of users and projects, connecting over 22 million employers and freelancers.
 * [NODESK](https://nodesk.co/remote-jobs/)
 * [Remote4me](https://remote4me.com/)
 * [RemoteBase](https://remotebase.io/)
@@ -118,6 +119,7 @@ Notes:
 * [Remote | OK](https://remoteok.io/)
 * [Remotive](http://jobs.remotive.io/)
 * [Stack Overflow remote job listings](https://stackoverflow.com/jobs?allowsremote=true)
+* [Toptal](https://toptal.com) - Join an exclusive network of the top freelance software developers, designers, and finance experts in the world. Top companies rely on Toptal freelancers for their most important projects.
 * [WeWorkRemotely](https://weworkremotely.com/)
 * [Working Nomads](http://www.workingnomads.co/jobs)
 

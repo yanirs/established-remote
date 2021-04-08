@@ -112,7 +112,6 @@ Notes:
 * FlexJobs posts: [26 Virtual Companies That Thrive on Remote Work (2014)](https://www.flexjobs.com/blog/post/25-virtual-companies-that-thrive-on-remote-work/) | [76 Virtual Companies and Distributed Teams (2015)](https://www.flexjobs.com/blog/post/76-virtual-companies-and-distributed-teams/) | [125 Virtual Companies That Embrace Remote Working (2016)](https://www.flexjobs.com/blog/post/virtual-companies-that-embrace-remote-working/)
 * [5 Successful Examples of "Distributed Workforce" Companies (staff.com blog)](https://staff.com/blog/5-successful-examples-of-distributed-workforce-companies/)
 * [Virtual Companies: How and Why to Invest in Remote Teams (8 companies; Hubstaff blog)](http://blog.hubstaff.com/successful-virtual-companies-around-the-world/)
-* [The Pros and Cons of Working Remotely by @spreaker](http://blog.spreaker.com/2016/03/14/the-pros-and-cons-of-working-remotely/)
 * [Remote Only](https://www.remoteonly.org/): Manifesto, tips, company list, and more
 
 ## Remote job search websites

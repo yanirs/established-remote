@@ -103,6 +103,7 @@ Company                                           | Business/products           
 Notes:
 * *Web* covers the usual front-end skills, *Mobile* usually means iOS and Android, and *DevOps* is listed for companies where this is one of the main focus areas.
 * Globally-competitive compensation means that the company doesn't use remote workers as a source of cheap labour. For compensation to be globally competitive, the company should offer packages that are comparable to market rates in major tech hubs.
+* **[✉️ You can subscribe to job alerts by companies from this list on Job Dispatch](https://www.jobdispatch.co/job-collections/remote-first)**.
 
 ## Other dynamic lists
 

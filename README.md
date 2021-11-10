@@ -1,6 +1,6 @@
 # Established remote companies (hiring globally)
 
-A curated list of established remote/distributed/virtual tech companies. The general idea is to include only established tech companies for which a significant portion of the workforce works remotely. *Established* means that each company is either well-funded or profitable with at least 50 employees, and *tech* means that they have more than a handful of software development roles. To make this list more useful to a global audience, companies that limit their hiring of engineers to a small set of [countries](https://www.worldometers.info/geography/how-many-countries-are-there-in-the-world/) are no longer included.
+A curated list of established remote/distributed/virtual tech companies. The general idea is to include only established tech companies for which a significant portion of the workforce works remotely. *Established* means that each company is either well-funded or profitable with at least 50 employees, and *tech* means that they have more than a handful of software development roles. To make this list more useful to a global audience, companies that limit their hiring of engineers to a small set of [rich countries](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita) are no longer included.
 
 Pull requests are welcome. Please keep the list in alphabetical order.
 

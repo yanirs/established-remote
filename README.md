@@ -108,6 +108,7 @@ Notes:
 * [AngelList remote job collection](https://angel.co/job-collections/remote)
 * [Authentic Jobs](https://authenticjobs.com/#onlyremote=1)
 * [FlexJobs](https://www.flexjobs.com/)
+* [Himalayas](https://himalayas.app)
 * [NODESK](https://nodesk.co/remote-jobs/)
 * [Remote4me](https://remote4me.com/)
 * [RemoteBase](https://remotebase.com/)

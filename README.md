@@ -105,7 +105,6 @@ Notes:
 
 ## Remote job search websites
 
-* [AngelList remote job collection](https://angel.co/job-collections/remote)
 * [Authentic Jobs](https://authenticjobs.com/#onlyremote=1)
 * [FlexJobs](https://www.flexjobs.com/)
 * [NODESK](https://nodesk.co/remote-jobs/)
@@ -114,6 +113,7 @@ Notes:
 * [Remote.co](https://remote.co/remote-jobs/)
 * [Remote | OK](https://remoteok.io/)
 * [Remotive](http://jobs.remotive.io/)
+* [Wellfound (formerly AngelList Talent)](https://wellfound.com/discover/startups?location=remote-friendly)
 * [WeWorkRemotely](https://weworkremotely.com/)
 * [Working Nomads](http://www.workingnomads.co/jobs)
 

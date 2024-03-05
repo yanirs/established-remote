@@ -101,6 +101,7 @@ Notes:
 * [Awesome Remote Job (markdown file of remote working resources)](https://github.com/lukasz-madon/awesome-remote-job)
 * [List of Startups with distributed teams, remote staff & multiple offices (Google Sheet)](https://docs.google.com/spreadsheets/d/1uDdDyheNY_-Z3MtuNoFdBYBooBnUTmlYCOZ3VhcN9Sw/edit)
 * [Work Remote Company List (less detailed Google Sheet)](https://docs.google.com/spreadsheets/d/1tETz3dWHkbzbXAMZ9XXdR0VKhhite-i_ON_Ei3TjFSc/edit)
+* [remoet.dev | Large directory of remote tech companies, job boards and more](https://remoet.dev)
 
 ## Static lists and articles
 

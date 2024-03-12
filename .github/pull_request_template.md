@@ -6,6 +6,7 @@ Please use the checklist to verify that the proposed company matches the current
 
 ## Checklist
 
-- [ ] The company has at least 50 employees
-- [ ] The company has multiple open positions that require programming skills
-- [ ] The company is hiring globally (i.e., not limited by timezone or to rich countries)
+- [ ] The company has at least 50 employees.
+- [ ] The company has multiple open positions that require programming skills.
+- [ ] The company is hiring globally (i.e., not limited by timezone or to rich countries).
+- [ ] It is not a job aggregator site OR it has more traffic than existing sites.

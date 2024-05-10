@@ -6,7 +6,9 @@ Pull requests are welcome. Please keep the list in alphabetical order.
 
 _Background:_ I started this list back in 2015 as a way of finding companies I may want to work with. This turned out well, as I started working remotely as a data scientist in 2017. With remote work becoming mainstream since 2020, I've narrowed down the list to focus on companies that hire globally. You can [visit my website](https://yanirseroussi.com/) to read some of [my reflections on remote data science](https://yanirseroussi.com/2018/11/03/reflections-on-remote-data-science-work/). You can also check out [this video of a talk I gave on a day in the life of a remote data scientist](https://www.youtube.com/watch?v=5qbVEEtgWcY). TL;DR: Remote work is awesome! :)
 
-**⚡ Do you need help implementing data science & AI solutions?** Check out my [remote consulting services](https://yanirseroussi.com/consult/)! <sub><sup>(or just move on to the list; just thought I'd put it out there)</sup></sub>
+**⚡ Startup leaders, do you need help shipping data-intensive solutions (getting started with AI/ML, data science, or advanced analytics)?** Check out my [remote consulting services](https://yanirseroussi.com/consult/)!
+
+**🧑‍💻 Thinking of joining a startup, especially as a data person?** Check out my [free Data-to-AI Health Check for Startups](https://yanirseroussi.com/data-to-ai-health-check/), where you'll find a set of questions to ask founders and help you make the right decision.
 
 ## The list
 

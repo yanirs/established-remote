@@ -12,6 +12,9 @@ _Background:_ I started this list back in 2015 as a way of finding companies I m
 
 ## The list
 
+> [!TIP]
+> A static list is nice, but... **Check out [🚀 Remote Rocketship](https://remoterocketship.com/?ref=yanirs-established-remote) for tens of thousands of remote job ads from all over the web!** <sup><sub>[affiliate link]</sub><sup>
+
 Company                                           | Business/products                        | Tech stack/skills                              | Globally-competitive compensation?   | Job page & other links
 ------------------------------------------------- | -----------------------------            | ----------------------------                   | ------------------------------------ | ----------------------
 [10up](https://10up.com/)                         | Web consulting                           | WordPress, PHP, Node, Web, React               | ✗                                    | :keyboard: [Jobs](https://10up.com/careers/)<br>:door: [Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-10Up-EI_IE775906.11,15.htm)
@@ -94,6 +97,9 @@ Company                                           | Business/products           
 [Zapier](https://zapier.com/)                     | App connectors                           | Python, Node, Web                              | ✓                                    | :keyboard: [Jobs](https://zapier.com/jobs/)<br>:door: [Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-Zapier-EI_IE1196705.11,17.htm)
 [Zyte](https://zyte.com/)           | Scraping as a service                    | Python, Web                                    | ✗                                    | :keyboard: [Jobs](https://zyte.com/jobs/)<br>:door: [Glassdoor](https://www.glassdoor.com/Reviews/Zyte-Reviews-E929046.htm)
 
+> [!TIP]
+> You made it to the bottom of the static list, now... **Check out [🚀 Remote Rocketship](https://remoterocketship.com/?ref=yanirs-established-remote) for tens of thousands of remote job ads from all over the web!** <sup><sub>[affiliate link]</sub><sup>
+
 Notes:
 * *Web* covers the usual front-end skills, *Mobile* usually means iOS and Android, and *DevOps* is listed for companies where this is one of the main focus areas.
 * Globally-competitive compensation means that the company doesn't use remote workers as a source of cheap labour. For compensation to be globally competitive, the company should offer packages that are comparable to market rates in major tech hubs.
@@ -113,6 +119,9 @@ Notes:
 * [Remote Only](https://www.remoteonly.org/): Manifesto, tips, company list, and more
 
 ## Remote job search websites
+
+> [!TIP]
+> One last time: **Check out [🚀 Remote Rocketship](https://remoterocketship.com/?ref=yanirs-established-remote) for tens of thousands of remote job ads from all over the web!** <sup><sub>[affiliate link]</sub><sup>
 
 * [Authentic Jobs](https://authenticjobs.com/#onlyremote=1)
 * [FlexJobs](https://www.flexjobs.com/)

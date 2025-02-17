@@ -6,9 +6,14 @@ Pull requests are welcome. Please keep the list in alphabetical order.
 
 _Background:_ I started this list back in 2015 as a way of finding companies I may want to work with. This turned out well, as I started working remotely as a data scientist in 2017. With remote work becoming mainstream since 2020, I've narrowed down the list to focus on companies that hire globally. You can [visit my website](https://yanirseroussi.com/) to read some of [my reflections on remote data science](https://yanirseroussi.com/2018/11/03/reflections-on-remote-data-science-work/). You can also check out [this video of a talk I gave on a day in the life of a remote data scientist](https://www.youtube.com/watch?v=5qbVEEtgWcY). TL;DR: Remote work is awesome! :)
 
-**⚡ Do you need help implementing data science & AI solutions?** Check out my [remote consulting services](https://yanirseroussi.com/consult/)! <sub><sup>(or just move on to the list; just thought I'd put it out there)</sup></sub>
+**⚡ Startup leaders, do you need help shipping data-intensive solutions (getting started with AI/ML, data science, or advanced analytics)?** Check out my [remote consulting services](https://yanirseroussi.com/consult/)!
+
+**🧑‍💻 Thinking of joining a startup, especially as a data person?** Check out my [free Data-to-AI Health Check for Startups](https://yanirseroussi.com/data-to-ai-health-check/), where you'll find a set of questions to ask founders and help you make the right decision.
 
 ## The list
+
+> [!TIP]
+> A static list is nice, but... **Check out [🚀 Remote Rocketship](https://remoterocketship.com/?ref=yanirs-established-remote) for tens of thousands of remote job ads from all over the web!** <sup><sub>[affiliate link]</sub><sup>
 
 Company                                           | Business/products                        | Tech stack/skills                              | Globally-competitive compensation?   | Job page & other links
 ------------------------------------------------- | -----------------------------            | ----------------------------                   | ------------------------------------ | ----------------------
@@ -32,6 +37,7 @@ Company                                           | Business/products           
 [Crossover](https://www.crossover.com/)           | Full-time long-term projects             | Many (see job page)                            | ✗                                    | :keyboard: [Jobs](https://app.crossover.com/x/marketplace/available-jobs)<br>:door: [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Crossover-for-Work-EI_IE1041838.11,29.htm)
 [DataDog](http://www.datadoghq.com)               | Monitoring & analytics                   | Scala, Java, Python, Go                        | ✓                                    | :keyboard: [Jobs](https://www.datadoghq.com/careers/)<br>:door: [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Datadog-EI_IE762009.11,18.htm)
 [DataRobot](http://www.datarobot.com)             | Data science as a service                | Python, R, Web, data stuff                     | ?                                    | :keyboard: [Jobs](http://www.datarobot.com/careers/)<br>:door: [Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-DataRobot-EI_IE911432.11,20.htm)
+[Deel](https://deel.com) | Global compliance, payroll, HR, benefits and IT. | Javascript, Python, Go, C#, Data stack | ✓  | :keyboard: [Jobs](https://www.deel.com/careers/)<br>:door: [Glassdoor](https://www.glassdoor.co.uk/Overview/Working-at-Deel-EI_IE3728271.11,15.htm)
 [Doist](https://doist.com)                        | Productivity and team communication apps | Web, Mobile, Python                            | ✓                                 | :keyboard: [Jobs](https://doist.com/careers)<br>:door: [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Doist-EI_IE1102553.11,16.htm)
 [Dribbble](https://dribbble.com)                  | Where Designers get Inspired & Hired     | Ruby, Web, Mobile                              | ✓                                    | :keyboard: [Jobs](https://dribbble.com/careers)<br>:door: [Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-Dribbble-EI_IE1605008.11,19.htm)
 [DuckDuckGo](https://duckduckgo.com)              | Privacy Products: search, mobile and desktop browsers, email, tracker blocking.                        | Mobile, C#, Perl, JavaScript, DevOps                              | ✓                                    | :keyboard: [Jobs](https://duckduckgo.com/hiring/)<br>:door: [Glassdoor](https://www.glassdoor.com/Reviews/DuckDuckGo-Reviews-E1086167.htm)
@@ -82,6 +88,7 @@ Company                                           | Business/products           
 [Time Doctor](https://www.timedoctor.com/)        | Time Tracking Tool                       | PHP, Node, Angular, Web, Mobile                | ?                                    | :keyboard: [Jobs](https://www.timedoctor.com/jobs.html)<br>:door: [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Time-Doctor-EI_IE1321033.11,22.htm)
 [Toggl](https://www.toggl.com/)                   | Time Tracking Tool                       | Go, Ruby, PostgreSQL, Mobile, Web              | ✗                                    | :keyboard: [Jobs](https://jobs.toggl.com/)<br>:door: [Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-Toggl-EI_IE734060.11,16.htm)
 [Toptal](https://www.toptal.com/)                 | Tech freelancer marketplace              | Ruby, Rails, React, GraphQL, Web, Kubernetes   | ✗                                    | :muscle: [Core team positions](https://www.toptal.com/careers)<br>:computer: [Apply as a developer](https://www.toptal.com/developers)<br>:door: [Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-Toptal-EI_IE882070.11,17.htm)
+[Turing](https://www.turing.com/)                 | AI-powered Talent Acquisition Platform   | Many                                           | ✓                                    | :keyboard: [Jobs](https://www.turing.com/remote-developer-jobs)<br>:door: [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Turing-EI_IE2462330.11,17.htm)
 [Vercel](https://www.vercel.com)                  | Web developer platform based on JAMstack | Javascript, Node.js, Web                       | ✓                                    | :keyboard: [Jobs](https://vercel.com/careers)
 [Wikimedia](https://wikimediafoundation.org/)     | Wikipedia                                | Web, PHP                                       | ✗                                    | :keyboard: [Jobs](https://wikimediafoundation.org/wiki/Work_with_us)<br>:door: [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Wikimedia-Foundation-EI_IE38331.11,31.htm)
 [X-team](https://x-team.com/)                     | Remote full-time projects                | Mobile, Web                                    | ✓                                    | :keyboard: [Jobs](https://x-team.com/remote-programming-jobs/)<br>:door: [Glassdoor](https://www.glassdoor.com/Overview/Working-at-X-Team-International-EI_IE1274500.11,31.htm)
@@ -90,6 +97,9 @@ Company                                           | Business/products           
 [You Need A Budget](https://www.youneedabudget.com/) | Budgeting Application                 | Ruby, Mobile, Web                              | ✓                                    | :keyboard: [Jobs](https://www.youneedabudget.com/careers/)<br>:door: [Glassdoor](https://www.glassdoor.com/Reviews/You-Need-A-Budget-Reviews-E1026556.htm)
 [Zapier](https://zapier.com/)                     | App connectors                           | Python, Node, Web                              | ✓                                    | :keyboard: [Jobs](https://zapier.com/jobs/)<br>:door: [Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-Zapier-EI_IE1196705.11,17.htm)
 [Zyte](https://zyte.com/)           | Scraping as a service                    | Python, Web                                    | ✗                                    | :keyboard: [Jobs](https://zyte.com/jobs/)<br>:door: [Glassdoor](https://www.glassdoor.com/Reviews/Zyte-Reviews-E929046.htm)
+
+> [!TIP]
+> You made it to the bottom of the static list, now... **Check out [🚀 Remote Rocketship](https://remoterocketship.com/?ref=yanirs-established-remote) for tens of thousands of remote job ads from all over the web!** <sup><sub>[affiliate link]</sub><sup>
 
 Notes:
 * *Web* covers the usual front-end skills, *Mobile* usually means iOS and Android, and *DevOps* is listed for companies where this is one of the main focus areas.
@@ -110,6 +120,9 @@ Notes:
 * [Remote Only](https://www.remoteonly.org/): Manifesto, tips, company list, and more
 
 ## Remote job search websites
+
+> [!TIP]
+> One last time: **Check out [🚀 Remote Rocketship](https://remoterocketship.com/?ref=yanirs-established-remote) for tens of thousands of remote job ads from all over the web!** <sup><sub>[affiliate link]</sub><sup>
 
 * [Authentic Jobs](https://authenticjobs.com/#onlyremote=1)
 * [FlexJobs](https://www.flexjobs.com/)

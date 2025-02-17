@@ -127,7 +127,6 @@ Notes:
 * [Authentic Jobs](https://authenticjobs.com/#onlyremote=1)
 * [FlexJobs](https://www.flexjobs.com/)
 * [NODESK](https://nodesk.co/remote-jobs/)
-* [OkJob (4 day week jobs)](https://okjob.io/remote-4-day-work-week/)
 * [Real Work From Anywhere](https://www.realworkfromanywhere.com/)
 * [Remote4me](https://remote4me.com/)
 * [Remote.co](https://remote.co/remote-jobs/)

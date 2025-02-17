@@ -130,7 +130,6 @@ Notes:
 * [OkJob (4 day week jobs)](https://okjob.io/remote-4-day-work-week/)
 * [Real Work From Anywhere](https://www.realworkfromanywhere.com/)
 * [Remote4me](https://remote4me.com/)
-* [RemoteBase](https://remotebase.com/)
 * [Remote.co](https://remote.co/remote-jobs/)
 * [Remote | OK](https://remoteok.io/)
 * [Remotive](http://jobs.remotive.io/)

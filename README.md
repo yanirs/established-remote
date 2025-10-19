@@ -4,11 +4,9 @@ A curated list of established remote/distributed/virtual tech companies. The gen
 
 Pull requests are welcome. Please keep the list in alphabetical order.
 
-_Background:_ I started this list back in 2015 as a way of finding companies I may want to work with. This turned out well, as I started working remotely as a data scientist in 2017. With remote work becoming mainstream since 2020, I've narrowed down the list to focus on companies that hire globally. You can [visit my website](https://yanirseroussi.com/) to read some of [my reflections on remote data science](https://yanirseroussi.com/2018/11/03/reflections-on-remote-data-science-work/). You can also check out [this video of a talk I gave on a day in the life of a remote data scientist](https://www.youtube.com/watch?v=5qbVEEtgWcY). TL;DR: Remote work is awesome! :)
+_Background:_ I started this list back in 2015 as a way of finding companies I may want to work with. This turned out well, as I started working remotely back in 2017. With remote work becoming mainstream since 2020, I've narrowed down the list to focus on companies that hire globally. You can [visit my website](https://yanirseroussi.com/) to read some of [my 2018 reflections on remote data science](https://yanirseroussi.com/2018/11/03/reflections-on-remote-data-science-work/). You can also check out [this video of a 2019 talk I gave on a day in the life of a remote data scientist](https://www.youtube.com/watch?v=5qbVEEtgWcY). These days, I still work remotely, but as [an independenet AI/ML engineering consultant](https://yanirseroussi.com/consult/). TL;DR: Remote work is awesome! :)
 
-**⚡ Startup leaders, do you need help shipping data-intensive solutions (getting started with AI/ML, data science, or advanced analytics)?** Check out my [remote consulting services](https://yanirseroussi.com/consult/)!
-
-**🧑‍💻 Thinking of joining a startup, especially as a data person?** Check out my [free Data-to-AI Health Check for Startups](https://yanirseroussi.com/data-to-ai-health-check/), where you'll find a set of questions to ask founders and help you make the right decision.
+**⚡ Running a climate tech startup and looking for help shipping AI/ML solutions?** Check out my [remote consulting services](https://yanirseroussi.com/consult/)!
 
 ## The list
 
@@ -134,4 +132,4 @@ Notes:
 * [WeWorkRemotely](https://weworkremotely.com/)
 * [Working Nomads](http://www.workingnomads.co/jobs)
 
-*Note:* There seem to be hundreds of remote job aggregators, and new ones keep emerging. This is just a sample. If you want to add an aggregator, it should have: (1) existed for at least five years; and (2) more traffic than most of the above sites.
+*Note:* There seem to be hundreds of remote job aggregators, and new ones keep emerging. This is just a sample. If you want to add an aggregator, it should: (1) be at least five years old; and (2) have more traffic than most of the above sites.

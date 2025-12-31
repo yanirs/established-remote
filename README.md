@@ -4,9 +4,9 @@ A curated list of established remote/distributed/virtual tech companies. The gen
 
 Pull requests are welcome. Please keep the list in alphabetical order.
 
-_Background:_ I started this list back in 2015 as a way of finding companies I may want to work with. This turned out well, as I started working remotely back in 2017. With remote work becoming mainstream since 2020, I've narrowed down the list to focus on companies that hire globally. You can [visit my website](https://yanirseroussi.com/) to read some of [my 2018 reflections on remote data science](https://yanirseroussi.com/2018/11/03/reflections-on-remote-data-science-work/). You can also check out [this video of a 2019 talk I gave on a day in the life of a remote data scientist](https://www.youtube.com/watch?v=5qbVEEtgWcY). These days, I still work remotely, but as [an independenet AI/ML engineering consultant](https://yanirseroussi.com/consult/). TL;DR: Remote work is awesome! :)
+_Background:_ I started this list back in 2015 as a way of finding companies I may want to work with. This turned out well, as I started working remotely back in 2017. With remote work becoming mainstream since 2020, I've narrowed down the list to focus on companies that hire globally. You can [visit my website](https://yanirseroussi.com/) to read some of [my 2018 reflections on remote data science](https://yanirseroussi.com/2018/11/03/reflections-on-remote-data-science-work/). You can also check out [this video of a 2019 talk I gave on a day in the life of a remote data scientist](https://www.youtube.com/watch?v=5qbVEEtgWcY). These days, I still work remotely, but as [an independent AI/ML success architect](https://yanirseroussi.com/consult/). TL;DR: Remote work is awesome! :)
 
-**⚡ Running a climate tech startup and looking for help shipping AI/ML solutions?** Check out my [remote consulting services](https://yanirseroussi.com/consult/)!
+**⚡ Running a climate tech venture and looking for help shipping AI/ML solutions?** Check out my [remote consulting services](https://yanirseroussi.com/consult/)!
 
 ## The list
 

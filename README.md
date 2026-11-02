@@ -132,3 +132,5 @@ Notes:
 * [Working Nomads](http://www.workingnomads.co/jobs)
 
 *Note:* There seem to be hundreds of remote job aggregators, and new ones keep emerging. This is just a sample. No new aggregators will be added. If you push a PR adding an aggregator, you will be blocked.
+
+| [OctaDezx](https://octadezx.com) | [Careers](https://octadezx.com/careers) | Agentic AI customer care, voice AI & self-filling CRM platform (100% remote) |
